@@ -1,0 +1,11 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"uF","","C1, C2, C3, C4, C5, C6, C7, C8, C12, C13, C14, C15, C16, C17, C18, C19","C-1206W","C-1206","16"
+"600v 220uF Capacitor","","C9","600v Capacitor","600v 220uF Capacitor","1"
+"Bulk Film Cap","","C10, C11","Bulk cappacitor","3300pF Bulk Capacitor","2"
+"5 pin connector","","Con1","pinheader","5 pin connector","1"
+"B5819","","D1, D2, D3, D4, D5, D6, D7, D8","B5819","B5819","8"
+"To263Mosfet","","Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8","To263Mosfet","To263Mosfet","8"
+"R-1206","Res1206","R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20","R-1206W","R-1206","20"
+"TLP152","","U1, U2, U3, U4","tlp152","TLP152","4"
+"5/20-5","","X1, X2, X3, X4","sip7DCDC converter","DC/DC Coýnverter","4"

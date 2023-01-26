@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Universal_Full_Bridge.PrjPcb]
+   Generated File[UniversalFullBridge.TXT]
+   Generated File[UniversalFullBridge.LDP]
+   Generated File[UniversalFullBridge.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:57:59 PM On 1/26/2023
